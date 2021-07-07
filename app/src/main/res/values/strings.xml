@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Articles Scrolling Layout</string>
+    <string name="featured">featured</string>
+    <summary name="stringXY1">See the Beautiful oceans of the
+        Pacific coast where the water is so
+        clean you can see the sand.
+    </summary>
+    <summary name="stringXY2">See the Beautiful oceans of the
+        Pacific coast where the water is so
+        clean you can see the sand.
+    </summary>
+</resources>
